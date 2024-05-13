@@ -1,1 +1,1 @@
-select * from country_table;
+select * from country_table1;
