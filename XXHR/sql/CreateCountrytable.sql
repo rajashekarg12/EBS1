@@ -1,4 +1,4 @@
-CREATE TABLE country_table1 (
+CREATE TABLE country_table987 (
     PersonID int,
     LastName varchar(255),
     FirstName varchar(255),
